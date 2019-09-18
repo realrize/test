@@ -33,6 +33,9 @@ public class MainTest {
         System.out.println("bbbbb");
         System.out.println("ccccc");
 
+
+        System.out.println("rrrrr");
+
         Stream<Integer> s1  = Stream.of(1, 11, 111, 1111)
                 .peek(e -> System.out.println("Filtered value: " + e));
 
