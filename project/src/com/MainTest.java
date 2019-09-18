@@ -29,6 +29,9 @@ public class MainTest {
         //test abc
         //test branch2
 
+
+        System.out.println("aaaa");
+
         Stream<Integer> s1  = Stream.of(1, 11, 111, 1111)
                 .peek(e -> System.out.println("Filtered value: " + e));
 
