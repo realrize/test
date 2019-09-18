@@ -30,7 +30,8 @@ public class MainTest {
         //test branch2
 
 
-        System.out.println("aaaa");
+        System.out.println("bbbbb");
+        System.out.println("ccccc");
 
         Stream<Integer> s1  = Stream.of(1, 11, 111, 1111)
                 .peek(e -> System.out.println("Filtered value: " + e));
