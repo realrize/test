@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tving_v4/target/tving_web/WEB-INF/lib/json-simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
